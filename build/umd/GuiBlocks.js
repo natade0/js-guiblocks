@@ -8,7 +8,7 @@
 	 * SBase.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -766,7 +766,7 @@
 	 * SButton.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -822,7 +822,7 @@
 	 * SCanvas.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -1088,7 +1088,7 @@
 	 * SCheckBox.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -1218,7 +1218,7 @@
 	 * NTColor.js
 	 *
 	 * AUTHOR:
-	 *  natade (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -2357,7 +2357,7 @@
 	 * SColorPicker.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -2764,7 +2764,7 @@
 	 * SComboBox.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -2917,7 +2917,7 @@
 	 * SFileLoadButton.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -3020,7 +3020,7 @@
 	 * SFileSaveButton.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -3102,7 +3102,7 @@
 	 * SGroupBox.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -3171,7 +3171,7 @@
 	 * SImagePanel.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -3295,7 +3295,7 @@
 	 * SLabel.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -3328,7 +3328,7 @@
 	 * SPanel.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -3425,7 +3425,7 @@
 	 * SProgressBar.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -3558,7 +3558,7 @@
 	 * SSlidePanel.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -3680,7 +3680,7 @@
 	 * SSlider.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
@@ -3924,7 +3924,7 @@
 	 * GuiBlocks.js
 	 *
 	 * @module GuiBlocks
-	 * @author natade (https://github.com/natade-jp)
+	 * @author natade (https://github.com/natade0)
 	 * @license MIT
 	 */
 
