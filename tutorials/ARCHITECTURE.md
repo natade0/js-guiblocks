@@ -124,6 +124,6 @@ button.addListener(() => { alert("クリックされました！"); });
 ## 参考
 
 * [README.md（公式）](./README.md)
-* [公式ドキュメント](https://natade-jp.github.io/js-guiblocks/)
+* [公式ドキュメント](https://natade0.github.io/js-guiblocks/)
 
 ---

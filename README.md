@@ -6,7 +6,7 @@
 **GuiBlocks** は、JavaScript で動的に GUI を構築するための軽量ライブラリです。HTML を直接記述することなく、JavaScript のコードで Web アプリケーションの UI を構成できます。
 このライブラリは Java の Swing に影響を受けて設計しており、オブジェクト指向でコンポーネントを組み合わせて UI を構築できるようになっています。
 
-詳しい説明は、[Github Pages](https://natade-jp.github.io/js-guiblocks/)で解説しています。
+詳しい説明は、[Github Pages](https://natade0.github.io/js-guiblocks/)で解説しています。
 
 ## 特長
 

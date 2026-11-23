@@ -13,10 +13,10 @@
 		"guiblocks",
 		"library"
 	],
-	"author": "natade-jp <natade3@gmail.com> (https://github.com/natade-jp)",
+	"author": "natade0 <natade3@gmail.com> (https://github.com/natade0)",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/natade-jp/js-guiblocks.git"
+		"url": "git+https://github.com/natade0/js-guiblocks.git"
 	},
 	"license": "MIT",
 	"source": "./src/GuiBlocks.js",
@@ -43,9 +43,9 @@
 		"build": "./build"
 	},
 	"bugs": {
-		"url": "https://github.com/natade-jp/js-guiblocks/issues"
+		"url": "https://github.com/natade0/js-guiblocks/issues"
 	},
-	"homepage": "https://natade-jp.github.io/js-guiblocks/",
+	"homepage": "https://natade0.github.io/js-guiblocks/",
 	"devDependencies": {
 		"@rollup/plugin-commonjs": "^28.0.3",
 		"@rollup/plugin-node-resolve": "^16.0.1",

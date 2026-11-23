@@ -2,7 +2,7 @@
  * SComboBox.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 
